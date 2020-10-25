@@ -2,7 +2,7 @@
 
 A repo for new open source contributers to begin with open source contribution. <br />
 UPDATE: Added "hacktoberfest" tag to this repo.<br />
-How to contribute?.<br />
+How to contribute ?<br />
 
 1.Fork this repo and give it a star.<br />
 
